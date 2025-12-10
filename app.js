@@ -6,7 +6,7 @@ $(document).ready(function () {
         // Prevent default anchor click behavior
         event.preventDefault();
 
-        // Store hash
+        // Store hash 
         var hash = this.hash;
 
         // Using jQuery's animate() method to add smooth page scroll
